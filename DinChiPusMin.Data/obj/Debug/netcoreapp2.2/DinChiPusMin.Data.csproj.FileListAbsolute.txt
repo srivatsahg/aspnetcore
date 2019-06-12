@@ -1,0 +1,12 @@
+C:\Personal\Technical\Web\ASP.NET\DinChiPusMin.Data\bin\Debug\netcoreapp2.2\DinChiPusMin.Data.deps.json
+C:\Personal\Technical\Web\ASP.NET\DinChiPusMin.Data\bin\Debug\netcoreapp2.2\DinChiPusMin.Data.dll
+C:\Personal\Technical\Web\ASP.NET\DinChiPusMin.Data\bin\Debug\netcoreapp2.2\DinChiPusMin.Data.pdb
+C:\Personal\Technical\Web\ASP.NET\DinChiPusMin.Data\bin\Debug\netcoreapp2.2\DinChiPusMin.Core.dll
+C:\Personal\Technical\Web\ASP.NET\DinChiPusMin.Data\bin\Debug\netcoreapp2.2\DinChiPusMin.Core.pdb
+C:\Personal\Technical\Web\ASP.NET\DinChiPusMin.Data\obj\Debug\netcoreapp2.2\DinChiPusMin.Data.csprojAssemblyReference.cache
+C:\Personal\Technical\Web\ASP.NET\DinChiPusMin.Data\obj\Debug\netcoreapp2.2\DinChiPusMin.Data.csproj.CoreCompileInputs.cache
+C:\Personal\Technical\Web\ASP.NET\DinChiPusMin.Data\obj\Debug\netcoreapp2.2\DinChiPusMin.Data.AssemblyInfoInputs.cache
+C:\Personal\Technical\Web\ASP.NET\DinChiPusMin.Data\obj\Debug\netcoreapp2.2\DinChiPusMin.Data.AssemblyInfo.cs
+C:\Personal\Technical\Web\ASP.NET\DinChiPusMin.Data\obj\Debug\netcoreapp2.2\DinChiPusMin.Data.csproj.CopyComplete
+C:\Personal\Technical\Web\ASP.NET\DinChiPusMin.Data\obj\Debug\netcoreapp2.2\DinChiPusMin.Data.dll
+C:\Personal\Technical\Web\ASP.NET\DinChiPusMin.Data\obj\Debug\netcoreapp2.2\DinChiPusMin.Data.pdb

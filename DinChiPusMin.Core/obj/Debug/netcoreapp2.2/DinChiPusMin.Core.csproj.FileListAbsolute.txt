@@ -1,0 +1,9 @@
+C:\Personal\Technical\Web\ASP.NET\DinChiPusMin.Core\bin\Debug\netcoreapp2.2\DinChiPusMin.Core.deps.json
+C:\Personal\Technical\Web\ASP.NET\DinChiPusMin.Core\bin\Debug\netcoreapp2.2\DinChiPusMin.Core.dll
+C:\Personal\Technical\Web\ASP.NET\DinChiPusMin.Core\bin\Debug\netcoreapp2.2\DinChiPusMin.Core.pdb
+C:\Personal\Technical\Web\ASP.NET\DinChiPusMin.Core\obj\Debug\netcoreapp2.2\DinChiPusMin.Core.csproj.CoreCompileInputs.cache
+C:\Personal\Technical\Web\ASP.NET\DinChiPusMin.Core\obj\Debug\netcoreapp2.2\DinChiPusMin.Core.AssemblyInfoInputs.cache
+C:\Personal\Technical\Web\ASP.NET\DinChiPusMin.Core\obj\Debug\netcoreapp2.2\DinChiPusMin.Core.AssemblyInfo.cs
+C:\Personal\Technical\Web\ASP.NET\DinChiPusMin.Core\obj\Debug\netcoreapp2.2\DinChiPusMin.Core.dll
+C:\Personal\Technical\Web\ASP.NET\DinChiPusMin.Core\obj\Debug\netcoreapp2.2\DinChiPusMin.Core.pdb
+C:\Personal\Technical\Web\ASP.NET\DinChiPusMin.Core\obj\Debug\netcoreapp2.2\DinChiPusMin.Core.csprojAssemblyReference.cache

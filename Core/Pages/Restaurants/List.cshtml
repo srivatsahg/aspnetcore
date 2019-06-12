@@ -1,0 +1,63 @@
+﻿@page
+@model Core.Pages.Restaurants.ListModel
+@{
+}
+
+<h1>Restaurants</h1>
+
+<form method="get">
+    <div class="form-group">
+        <div class="input-group">
+            <input type="search" name="searchTerm" class="form-control" asp-for="SearchTerm"/>
+            <span class="input-group-append">
+                <button class="btn btn-info">
+                    Search
+                </button>
+            </span>
+        </div>
+    </div>
+</form>
+
+<table class="table">
+    <thead>
+        <tr style="font-weight:bolder; color:darkblue;background-color:azure">
+            <td>Name</td>
+            <td>Location</td>
+            <td>Cuisine</td>
+            <td>Link</td>
+        </tr>
+    </thead>
+    @foreach (var restaurant in Model.Restaurants)
+    {
+    <tr>
+        <td>
+            @restaurant.Name
+        </td>
+        <td>
+            @restaurant.Location
+        </td>
+        <td>
+            @restaurant.Cuisine
+        </td>
+        <td>
+            <a class="btn btn-lg"
+               asp-page="./Detail"
+               asp-route-restId="@restaurant.Id">
+                <i class="btn btn-warning">Detail</i>
+            </a>
+            <a class="btn btn-lg"
+               asp-page="./Edit"
+               asp-route-restId="@restaurant.Id">
+                <i class="btn btn-danger">Edit</i>
+            </a>
+        </td>
+    </tr>
+    }
+</table>
+
+<a asp-page="./Edit" class="btn btn-primary">Add new</a>
+
+<div>@Model.ConnectionString</div>
+
+
+
